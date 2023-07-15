@@ -1,0 +1,24 @@
+p{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 15px;
+}
+table {
+    background-color: purple;
+    color: white;
+    text-align: center;
+   
+}
+th {
+    text-align: center;
+    color: yellowgreen;
+}
+form{
+    padding-top: 50px;
+    padding-left: 50px;
+}
